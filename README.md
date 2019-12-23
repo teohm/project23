@@ -9,5 +9,6 @@ This is my new project.
 
 * Pavitra Naaidu a.p. Radakrishnan 
 [GitHub](http://github.com/xXNILAXx)
-* Jason Tam [GitHub](http://github.com)
+
+* [Jason Tam](http://github.com)
 
