@@ -9,8 +9,6 @@ last updated: 23/Dec/2019
 ## Research Assistants
 
 
-* Pavitra Naaidu a.p. Radakrishnan 
-[GitHub](http://github.com/xXNILAXx)
-
+* Stoned Surgeon [xXNilaXx](http://github.com/xXNILAXx)
 * [Jason Tam](http://github.com)
 
