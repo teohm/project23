@@ -7,7 +7,7 @@ This is my new project.
 ## Research Assistants
 
 
-* [xXNilaXx](http://github.com/xXNILAXx)
+* Stoned Surgeon [xXNilaXx](http://github.com/xXNILAXx)
 * Jason Tam [GitHub](http://github.com)
 
 
