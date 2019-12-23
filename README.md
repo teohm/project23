@@ -8,5 +8,5 @@ This is my new project.
 
 
 * Pavitra Naaidu a.p. Radaakrishnan
-* Jason Tam
+* Jason Tam [GitHub](http://github.com)
 
